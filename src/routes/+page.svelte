@@ -1,6 +1,7 @@
 <script lang="ts">
     import { onMount } from 'svelte';
     import { browser } from '$app/environment';
+    import { base } from '$app/paths';
 
     import { BarChartSimple } from '@carbon/charts-svelte'
     import '@carbon/charts-svelte/styles.css'
@@ -24,7 +25,7 @@
 
     onMount(async () => {
         if (browser) {
-            let response = await fetch(`/data.json`);
+            let response = await fetch(`${base}/data.json`);
             const chartData = await response.json();
             data = chartData;
             loaded = true;
