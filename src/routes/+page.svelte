@@ -36,4 +36,5 @@
 
 {#if loaded}
     <BarChartSimple {data} {options} />
+    <small>Last updated: 3/14/2024</small>
 {/if}

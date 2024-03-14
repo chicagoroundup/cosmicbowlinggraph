@@ -15,10 +15,18 @@ const teams = [
 
 let output = [];
 
+//Generate a starting amount
+teams.map((item) => {
+	output.push({
+		group: item,
+		value: 0
+	});
+});
+
+//Add up donations, filtering out non-bowling
 fs.createReadStream('./donations.csv')
 	.pipe(parse({ delimiter: ',', from_line: 2 }))
 	.on('data', function (row) {
-		console.log(row);
 		let simplifiedTeamName = row[0].replace('Donations to', '').trim();
 		if (teams.indexOf(String(simplifiedTeamName)) > -1) {
 			let outputTeam = output.find((item) => item.group === simplifiedTeamName);
