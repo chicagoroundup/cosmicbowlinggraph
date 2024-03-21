@@ -31,7 +31,7 @@
 
     export let meterData = [
         {
-            group: 'Current Donations',
+            group: 'Current Progress -',
             value: 0
         }
     ];
@@ -62,5 +62,5 @@
 {#if loaded}
     <MeterChart data={meterData} options={meterOptions} />
     <BarChartSimple {data} {options} />
-    <small>Last updated: 3/14/2024</small>
+    <small>Last updated: 3/20/2024</small>
 {/if}
