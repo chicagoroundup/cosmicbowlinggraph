@@ -10,7 +10,9 @@ const teams = [
 	'Dashiki Dreams',
 	'Spare Me The Drama',
 	'Gutter Humiliation',
-	"Livin' on a Spare"
+	"Livin' on a Spare",
+	'Step XXX',
+	'Wrecking Balls'
 ];
 
 let output = [];
