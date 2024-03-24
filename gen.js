@@ -12,7 +12,8 @@ const teams = [
 	'Gutter Humiliation',
 	"Livin' on a Spare",
 	'Step XXX',
-	'Wrecking Balls'
+	'Wrecking Balls',
+	'I’d Hit That'
 ];
 
 let output = [];
