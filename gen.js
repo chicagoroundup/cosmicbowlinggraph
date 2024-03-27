@@ -14,7 +14,7 @@ const teams = [
 	'Step XXX',
 	'Wrecking Balls',
 	'I’d Hit That',
-	'Pin-icillin',
+	'Team Pin-icillin',
 	'The God Sized Holes'
 ];
 
