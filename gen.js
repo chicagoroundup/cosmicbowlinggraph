@@ -13,7 +13,9 @@ const teams = [
 	"Livin' on a Spare",
 	'Step XXX',
 	'Wrecking Balls',
-	'I’d Hit That'
+	'I’d Hit That',
+	'Pin-icillin',
+	'The God Sized Holes'
 ];
 
 let output = [];
