@@ -15,7 +15,8 @@ const teams = [
 	'Wrecking Balls',
 	'I’d Hit That',
 	'Team Pin-icillin',
-	'The God Sized Holes'
+	'The God Sized Holes',
+	'A Case of the Zoomies'
 ];
 
 let output = [];
