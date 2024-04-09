@@ -1,6 +1,8 @@
 import { parse } from 'csv-parse';
 import fs from 'node:fs';
 
+const args = process.argv.slice(2);
+const teamFilter = args[0]?.split('=');
 const teams = [
 	'Spare Me The Drama',
 	'Lickety Splits',
@@ -20,6 +22,7 @@ const teams = [
 ];
 
 let output = [];
+let reportOutput = [];
 
 //Generate a starting amount
 teams.map((item) => {
@@ -34,6 +37,14 @@ fs.createReadStream('./donations.csv')
 	.pipe(parse({ delimiter: ',', from_line: 2 }))
 	.on('data', function (row) {
 		let simplifiedTeamName = row[0].replace('Donations to', '').trim();
+		if (teamFilter && teamFilter[1] === simplifiedTeamName) {
+			reportOutput.push(row);
+			fs.writeFile(
+				'./report.json',
+				JSON.stringify(reportOutput),
+				(err) => err && console.error(err)
+			);
+		}
 		if (teams.indexOf(String(simplifiedTeamName)) > -1) {
 			let outputTeam = output.find((item) => item.group === simplifiedTeamName);
 			if (outputTeam) {
@@ -45,7 +56,6 @@ fs.createReadStream('./donations.csv')
 				});
 			}
 		}
-
 		fs.writeFile('./static/data.json', JSON.stringify(output), (err) => err && console.error(err));
 	})
 	.on('end', function () {
