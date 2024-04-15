@@ -62,5 +62,5 @@
 {#if loaded}
     <MeterChart data={meterData} options={meterOptions} />
     <BarChartSimple {data} {options} />
-    <small>Last updated: 4/14/2024 </small>
+    <small>Last updated: 4/15/2024 </small>
 {/if}
