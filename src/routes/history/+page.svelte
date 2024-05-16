@@ -14,10 +14,10 @@
 	import freedomToChange from '$lib/assets/timeline/freedom-to-change.jpg';
 
 	const options = [
-		{ title: 'An Awakening', time: '2010', extra: 'First Chicago Roundup' },
-		{ title: 'Adventures of the Spirit', time: '2011', extra: 'First annual bowling fundraiser' },
-		{ title: 'Together We Grow', time: '2012', extra: 'First annual chili fundraiser' },
-		{ title: 'We Will Be Amazed', time: '2013', extra: 'Singer/Songwriter Levi K performance' },
+		{ title: 'An Awakening', time: '2010' },
+		{ title: 'Adventures of the Spirit', time: '2011' },
+		{ title: 'Together We Grow', time: '2012' },
+		{ title: 'We Will Be Amazed', time: '2013' },
 		{ title: 'We Can Go Anywhere', time: '2014' },
 		{ title: 'Your Imagination will be Fired', time: '2015' },
 		{ title: 'Rocketed', time: '2016' },
