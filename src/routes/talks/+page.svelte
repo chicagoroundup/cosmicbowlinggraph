@@ -75,7 +75,14 @@
 			<tr>
 				<td>TBD</td>
 				<td>Drop the Rock</td>
-				<td>A focus on steps 6 and 7. (Full description coming soon)</td>
+				<td
+					>This workshop dives deep into the intricacies of Steps 6 and 7 of the AA 12-step program,
+					focusing on the fear associated with the concept of a Higher Power removing one’s defects.
+					A central theme revolving around a metaphorical ROCK symbolizing character defects and the
+					emotional baggage that hinder personal growth and sobriety. Lastly, a step 10 review of
+					taking daily inventory will become a cornerstone for preventing the accumulation of more
+					ROCKS.</td
+				>
 			</tr>
 			<tr>
 				<td>TBD</td>
@@ -145,11 +152,6 @@
 					embracing words of encouragement and letting go of fear.</td
 				>
 			</tr>
-			<tr>
-				<td>TBD</td>
-				<td></td>
-				<td></td>
-			</tr>
 		</tbody>
 	</table>
 </section>
@@ -178,7 +180,12 @@
 			<tr>
 				<td>TBD</td>
 				<td>Madonna & Gaga (Music & Recovery)</td>
-				<td>(Description coming soon)</td>
+				<td
+					>Songs are selected based on lyrical significance to recovery. Participants choose the
+					artist, songs are selected at random and participants briefly share how the song relates
+					to their recovery, experience, strength and hope. So "Just Dance"...cause baby you were
+					"Born This Way"</td
+				>
 			</tr>
 			<tr>
 				<td>TBD</td>
@@ -192,7 +199,11 @@
 			<tr>
 				<td>TBD</td>
 				<td>Sex and Intimacy in Recovery</td>
-				<td>(Description coming soon)</td>
+				<td
+					>What can sex and pleasure-positive recovery look like for you? This interactive workshop
+					will focus on how we can remain rooted in Twelve Step principles as we explore our
+					relationship to dating and sex.</td
+				>
 			</tr>
 		</tbody>
 	</table>
@@ -201,6 +212,10 @@
 	<header>
 		<h2>Sunday August 25, 2024</h2>
 		<h3>9:45 AM - 10:45 AM</h3>
+		<p>
+			As a courtesy for attendees who can only attend one day, select workshops will be repeated
+			from Saturday.
+		</p>
 	</header>
 	<table>
 		<thead>
@@ -214,7 +229,14 @@
 			<tr>
 				<td>TBD</td>
 				<td>Drop the Rock</td>
-				<td>A focus on steps 6 and 7. (Full description coming soon)</td>
+				<td
+					>This workshop dives deep into the intricacies of Steps 6 and 7 of the AA 12-step program,
+					focusing on the fear associated with the concept of a Higher Power removing one’s defects.
+					A central theme revolving around a metaphorical ROCK symbolizing character defects and the
+					emotional baggage that hinder personal growth and sobriety. Lastly, a step 10 review of
+					taking daily inventory will become a cornerstone for preventing the accumulation of more
+					ROCKS.
+				</td>
 			</tr>
 			<tr>
 				<td>TBD</td>
