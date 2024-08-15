@@ -270,6 +270,10 @@
 		padding: 0;
 	}
 
+	p {
+		font-family: 'Roboto', sans-serif;
+	}
+
 	table {
 		border: 3px solid #463b28;
 		border-collapse: collapse;
