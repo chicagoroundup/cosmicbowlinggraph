@@ -282,5 +282,12 @@
 		table {
 			border: none;
 		}
+		table tbody td {
+			font-size: 0.8em;
+			padding: 0.2em;
+		}
+		table th {
+			padding: 0.2em;
+		}
 	}
 </style>
