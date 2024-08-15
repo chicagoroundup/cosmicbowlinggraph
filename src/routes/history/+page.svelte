@@ -42,6 +42,7 @@
 		{ title: 'Chosen Family Reunion', time: '2023' },
 		{ title: 'Death of Denial', time: '2024' }
 	];
+
 </script>
 
 <Timeline position="alternate">
