@@ -258,6 +258,11 @@
 		padding: 0;
 	}
 
+	table thead {
+		margin: 0;
+		padding: 0;
+	}
+
 	table th {
 		background-color: #463b28;
 		color: #fff;
@@ -272,5 +277,10 @@
 	}
 	table tbody tr:nth-child(odd) {
 		background-color: #e0be81;
+	}
+	@media only screen and (max-width: 600px) {
+		table {
+			border: none;
+		}
 	}
 </style>
