@@ -363,7 +363,7 @@
 
 <style>
 	#scheduleWrapper {
-		height: 100%;
+		height: 4000px;
 	}
 	header {
 		margin: 2em 0;
@@ -458,6 +458,9 @@
 		background-color: #fdf5dc;
 	}
 	@media only screen and (max-width: 600px) {
+		#scheduleWrapper {
+			height: 11000px;
+		}
 		header {
 			margin: 3em 0 0.5em 0;
 		}
