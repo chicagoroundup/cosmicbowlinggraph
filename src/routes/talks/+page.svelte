@@ -332,6 +332,15 @@
 		</thead>
 		<tbody>
 			<tr>
+				<td data-title="Room"><span class="pill rm200">Rm 200</span></td>
+				<td data-title="Title">CRU 2024 Kick-Off</td>
+				<td data-title="Description"
+					>Come learn about what it takes to get involved in next year's Chicago Roundup! And be the
+					first to learn the CRU 2025 Theme!
+				</td>
+				<td data-title="Facilitator">Will G.</td>
+			</tr>
+			<tr>
 				<td data-title="Room"><span class="pill youth">Youth Space</span></td>
 				<td data-title="Title">Drop the Rock</td>
 				<td data-title="Description"
