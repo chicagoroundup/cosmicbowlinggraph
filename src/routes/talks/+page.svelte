@@ -411,6 +411,7 @@
 
 	.terrace {
 		background-color: #7ac3a7;
+		font-size: 0.5em;
 	}
 
 	.rm200 {
