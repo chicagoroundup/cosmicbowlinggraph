@@ -211,7 +211,7 @@
 					>The search for connection with a caring and loving Higher Power (as well as a caring and
 					loving relationship with yourself).</td
 				>
-				<td data-title="Facilitator">Keli H.</td>
+				<td data-title="Facilitator">Kelli H.</td>
 			</tr>
 			<tr>
 				<td data-title="Room"><span class="pill gym">Gym</span></td>
