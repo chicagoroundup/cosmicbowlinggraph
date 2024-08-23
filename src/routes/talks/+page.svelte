@@ -42,7 +42,7 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td data-title="Room"><span class="pill terrace">Outdoor Terrace</span></td>
+				<td data-title="Room"><span class="pill youth">Youth Space</span></td>
 				<td data-title="Title">Joyful Meditation</td>
 				<td data-title="Description"
 					>New to meditation or wanting to improve your skills? This workshop will give you
@@ -300,7 +300,7 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td data-title="Room"><span class="pill terrace">Outdoor Terrace</span></td>
+				<td data-title="Room"><span class="pill youth">Youth Space</span></td>
 				<td data-title="Title">Equanimity Meditation</td>
 				<td data-title="Description"
 					>New to meditation or wanting to improve your skills? This workshop will give you
