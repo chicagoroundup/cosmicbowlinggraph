@@ -504,28 +504,6 @@
 		</tbody>
 	</table>
 </section>
-<section>
-	<header>
-		<h2>Sunday August 25, 2024</h2>
-		<h3>12:30 PM - 1:00 PM</h3>
-	</header>
-	<table>
-		<thead>
-			<tr>
-				<th class="colRoom" scope="col">Room</th>
-				<th scope="col">Title</th>
-				<th scope="col">Description</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td data-title="Room"><span class="pill gym">Gym</span></td>
-				<td data-title="Title">CRU 2025 Announcements</td>
-				<td data-title="Description">More will be revealed.</td>
-			</tr>
-		</tbody>
-	</table>
-</section>
 
 <style>
 	header {
