@@ -183,6 +183,26 @@
 <section>
 	<header>
 		<h2>Saturday August 24, 2024</h2>
+		<h3>1:00 PM - 2:15 PM</h3>
+	</header>
+	<table>
+		<thead>
+			<tr>
+				<th scope="col">Title</th>
+				<th scope="col">Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td data-title="Title">Lunch</td>
+				<td data-title="Description">Pizza will be served or explore the neighborhood.</td>
+			</tr>
+		</tbody>
+	</table>
+</section>
+<section>
+	<header>
+		<h2>Saturday August 24, 2024</h2>
 		<h3>2:30 PM - 3:45 PM</h3>
 	</header>
 	<table>
@@ -286,6 +306,75 @@
 </section>
 <section>
 	<header>
+		<h2>Saturday August 24, 2024</h2>
+		<h3>5:20 PM - 5:50 PM</h3>
+	</header>
+	<table>
+		<thead>
+			<tr>
+				<th scope="col">Title</th>
+				<th scope="col">Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td data-title="Title">Passed Hors D'oeuvres</td>
+				<td data-title="Description">Mingle and get to know others.</td>
+			</tr>
+		</tbody>
+	</table>
+</section>
+<section>
+	<header>
+		<h2>Saturday August 24, 2024</h2>
+		<h3>6:00 PM - 6:30 PM</h3>
+	</header>
+	<table>
+		<thead>
+			<tr>
+				<th scope="col">Title</th>
+				<th scope="col">Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td data-title="Title">Banquet Service</td>
+				<td data-title="Description">Dinner</td>
+			</tr>
+		</tbody>
+	</table>
+</section>
+<section>
+	<header>
+		<h2>Saturday August 24, 2024</h2>
+		<h3>6:45 PM - 8:00 PM</h3>
+	</header>
+	<table>
+		<thead>
+			<tr>
+				<th class="colRoom" scope="col">Room</th>
+				<th scope="col">Title</th>
+				<th scope="col">Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td data-title="Room"><span class="pill gym">Gym</span></td>
+				<td data-title="Title">Speaker - Conor (Sobriety Countdown)</td>
+				<td data-title="Description"
+					>Conor is incredibly excited to share his story at this year’s Chicago RoundUp. In 2009,
+					at 25 years old, Conor began his sober journey in NYC. Former actor turned health care
+					worker, Conor has been given one those “never in our wildest dreams” lives. He has been
+					honored to sponsor fellows from all across the country going on 15 years now and is
+					grateful to spend his working days helping those with life changing illness. We do
+					recover!</td
+				>
+			</tr>
+		</tbody>
+	</table>
+</section>
+<section>
+	<header>
 		<h2>Sunday August 25, 2024</h2>
 		<h3>9:00 AM - 9:35 AM</h3>
 	</header>
@@ -362,6 +451,77 @@
 					creativity with an exploration of the creative process in sobriety.</td
 				>
 				<td data-title="Facilitator">Leo S.</td>
+			</tr>
+		</tbody>
+	</table>
+</section>
+<section>
+	<header>
+		<h2>Sunday August 25, 2024</h2>
+		<h3>11:00 AM - 11:30 AM</h3>
+	</header>
+	<table>
+		<thead>
+			<tr>
+				<th scope="col">Title</th>
+				<th scope="col">Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td data-title="Title">Brunch</td>
+				<td data-title="Description">Mingle and enjoy breakfast food.</td>
+			</tr>
+		</tbody>
+	</table>
+</section>
+<section>
+	<header>
+		<h2>Sunday August 25, 2024</h2>
+		<h3>11:30 AM - 12:30 PM</h3>
+	</header>
+	<table>
+		<thead>
+			<tr>
+				<th class="colRoom" scope="col">Room</th>
+				<th scope="col">Title</th>
+				<th scope="col">Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td data-title="Room"><span class="pill gym">Gym</span></td>
+				<td data-title="Title">Speaker - Wakefield</td>
+				<td data-title="Description"
+					>Wakefield is honored to return to Chicago and share with those who gave him the tools to
+					make a “sincere attempt to become what he could be” and live in abundance today. Clean and
+					sober since 1988 (left the hall of shame) he attributes every HIV and public health
+					success, award, opportunity for community service to daily membership maintenance,
+					sponsoring and being sponsored by those who give opportunity to practice 12 step
+					principles in all my affairs.</td
+				>
+			</tr>
+		</tbody>
+	</table>
+</section>
+<section>
+	<header>
+		<h2>Sunday August 25, 2024</h2>
+		<h3>12:30 PM - 1:00 PM</h3>
+	</header>
+	<table>
+		<thead>
+			<tr>
+				<th class="colRoom" scope="col">Room</th>
+				<th scope="col">Title</th>
+				<th scope="col">Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td data-title="Room"><span class="pill gym">Gym</span></td>
+				<td data-title="Title">CRU 2025 Announcements</td>
+				<td data-title="Description">More will be revealed.</td>
 			</tr>
 		</tbody>
 	</table>
