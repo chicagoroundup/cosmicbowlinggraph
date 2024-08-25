@@ -1,4 +1,4 @@
-<section>
+<!-- <section>
 	<header>
 		<h2>Friday August 23, 2024</h2>
 		<h3>5:00 PM - 6:00 PM</h3>
@@ -372,7 +372,7 @@
 			</tr>
 		</tbody>
 	</table>
-</section>
+</section> -->
 <section>
 	<header>
 		<h2>Sunday August 25, 2024</h2>
@@ -389,7 +389,7 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td data-title="Room"><span class="pill youth">Youth Space</span></td>
+				<td data-title="Room"><span class="pill rm200">Rm 200</span></td>
 				<td data-title="Title">Equanimity Meditation</td>
 				<td data-title="Description"
 					>New to meditation or wanting to improve your skills? This workshop will give you
@@ -405,10 +405,6 @@
 	<header>
 		<h2>Sunday August 25, 2024</h2>
 		<h3>9:45 AM - 10:45 AM</h3>
-		<p>
-			As a courtesy for attendees who can only attend one day, select workshops will be repeated
-			from Saturday.
-		</p>
 	</header>
 	<table>
 		<thead>
@@ -430,7 +426,7 @@
 				<td data-title="Facilitator">Will G.</td>
 			</tr>
 			<tr>
-				<td data-title="Room"><span class="pill youth">Youth Space</span></td>
+				<td data-title="Room"><span class="pill terrace">Outdoor Terrace</span></td>
 				<td data-title="Title">Drop the Rock</td>
 				<td data-title="Description"
 					>This workshop dives deep into the intricacies of Steps 6 and 7 of the AA 12-step program,
